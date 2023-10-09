@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;700&display=swap');
+
+.Heading-XL{
+    color: $dark-blue;
+    font-family: Epilogue;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 78px;
+    letter-spacing: -1px;
+}
+
+.Heading-L{
+    color: $dark-blue;
+    font-family: Epilogue;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px; /* 116.667% */
+    letter-spacing: -0.5px;
+}
+
+.Heading-M{
+    color: $dark-blue;
+    font-family: Epilogue;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px; /* 177.778% */
+    letter-spacing: -0.18px;
+    text-transform: uppercase;
+}
+
+.Heading-S{
+    color: $gray;
+    font-family: Epilogue;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+}
+
+.Quote{
+    color: $gray;
+    font-family: Epilogue;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px; /* 175% */
+    letter-spacing: 0.111px;
+}
+
+.Body{
+    color: $gray;
+    font-family: Epilogue;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 177.778% */
+    letter-spacing: 0.1px;
+}
+
+.Footer{
+    color: $gray;
+    font-family: Epilogue;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 213.333% */ 
+}

@@ -1,0 +1,20 @@
+
+.btn{
+    color: $cream-white;
+    font-family: Epilogue;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.18px;
+    border-radius: 6px;
+    padding: 32px 15px;
+
+    &-primary{
+        background: $dark-blue;
+    }
+    &-primary:hover{
+        background: linear-gradient(135deg, #A060FF 0%, #CB30E3 49.21%, #FFA84E 100%);
+    }
+
+}
